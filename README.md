@@ -21,13 +21,13 @@ This project showcases an interactive dashboard designed to analyze and visualiz
 8. Customer Status:
    - Highlights the percentage of customers who stayed, joined, or churned.
 9. Contracts Per Customer:
-   - Tracks contract types (Month-to-Month, One-Year, Two-Year) and their proportions.
+    - Tracks contract types (Month-to-Month, One-Year, Two-Year) and their proportions.
 10. Reasons for Churn:
-   - Identifies primary drivers behind customer churn including better competitor offers, device options, and customer service experience.
+    - Identifies primary drivers behind customer churn including better competitor offers, device options, and customer service experience.
 11. Churn by Category:
-   - Classifies churn under categories such as Competitor, Price, Dissatisfaction, and Support Attitude.
+    - Classifies churn under categories such as Competitor, Price, Dissatisfaction, and Support Attitude.
 12. Client Demographics:
-   - Marital Status Analysis: Shows the number of married and unmarried clients and their dependents.
+    - Marital Status Analysis: Shows the number of married and unmarried clients and their dependents.
 ## 2-Tools & Technologies
    - Excel for data cleaning, preprocessing, dashboard creation and interactive reporting
 ## 3-Questions (KPI'S)
